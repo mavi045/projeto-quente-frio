@@ -1,0 +1,3 @@
+O "quente/frio" é um conceito de jogo simples que você pode implementar no p5.js utilizando cálculos de distância, interação do usuário (clique) e feedback visual. A função draw() é crucial para a interação do jogador com a tela e para atualizar o feedback a cada tentativa.
+ A brincadeira estimula a capacidade de identificar tendências e progredir para um objetivo final, ao mesmo tempo que promove a cooperação e a comunicação entre os participantes. A importância do Quente e Frio reside na sua capacidade de envolver os participantes num processo de descoberta e, simultaneamente, reforçar a importância da paciência e persistência para alcançar um resultado.
+ Fonte:Google,IA.
